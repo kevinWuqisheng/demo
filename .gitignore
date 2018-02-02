@@ -1,4 +1,4 @@
 *.log
 *.iml
-sc/.idea/
-sc/*/target/
+.idea/
+*/target/
